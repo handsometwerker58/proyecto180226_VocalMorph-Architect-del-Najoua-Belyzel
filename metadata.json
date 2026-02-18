@@ -1,0 +1,7 @@
+{
+  "name": "VocalMorph AI Architect",
+  "description": "A professional suite for vocal cloning, style analysis, and synth-pop mixing workflows, featuring Najoua Belyzel style analysis and RVC implementation guides.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
